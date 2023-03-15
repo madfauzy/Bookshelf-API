@@ -11,7 +11,7 @@ Disusun oleh: Dicoding Indonesia <br>
 Level: Pemula
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/95717485/225231096-99464af6-1821-406f-a2fa-fa7b2dd7c31a.png" alt="Dicoding AWS">
+  <img src="https://user-images.githubusercontent.com/95717485/225231893-e59de44d-0d3e-4e79-971b-a4d494565a74.png" alt="Dicoding AWS">
 </div>
 
 <br>
